@@ -1,8 +1,8 @@
 %define debug_package %nil
 
 Name:		mate-tweak
-Version:	22.10.0
-Release:	2%?dist
+Version:	22.04.8
+Release:	1%{?dist}
 Summary:	Tweak tool for the MATE Desktop
 License:	GPL-2.0
 URL:		https://github.com/ubuntu-mate/mate-tweak
